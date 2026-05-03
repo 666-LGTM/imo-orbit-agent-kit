@@ -4,6 +4,8 @@
 
 它把一个产品想法拆成「需求澄清 -> 架构设计 -> 实现计划 -> 风险审查 -> 证明包」五步，并生成可提交的 GitHub 项目材料、运行日志、Token 预算和本地演示页。默认使用离线 mock 模式，方便任何评审者直接复现；配置 `XIAOMI_MIMO_API_KEY` 后可切换到 Xiaomi MiMo API。
 
+在线可视化演示：https://666-lgtm.github.io/imo-orbit-agent-kit/
+
 ## 解决的核心痛点
 
 很多 AI Builder 在申请 Token Plan 时只有截图或零散描述，很难证明：
