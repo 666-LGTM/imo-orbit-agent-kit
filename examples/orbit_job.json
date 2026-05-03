@@ -1,0 +1,5 @@
+{
+  "idea": "为独立开发者自动生成 Xiaomi MiMo Orbit 申请证明包，包含多 Agent 运行日志、Token 预算和可截图演示页。",
+  "target_users": ["AI Builder", "独立开发者", "小团队"],
+  "proof_outputs": ["summary.md", "evidence.json", "index.html"]
+}
